@@ -9,4 +9,5 @@ A cooperative paper list on 3D vision
     * [GSY] HEMlets PoSh: Learning Part-Centric Heatmap Triplets for 3D Human Pose and Shape Estimation ([ICCV'19](https://arxiv.org/pdf/2003.04894.pdf))
 * Unsupervised 3D Mesh Reconstruction
     * [GSY] TexturePose: Supervising Human Mesh Estimation with Texture Consistency ([ICCV'19](https://arxiv.org/pdf/1910.11322.pdf)) ([code](https://github.com/geopavlakos/TexturePose))
+    * [GSY] Learning to Reconstruct 3D Human Pose and Shape via Model-fitting in the Loop ([ICCV'19](https://arxiv.org/pdf/1909.12828.pdf)) ([code](https://seas.upenn.edu/~nkolot/projects/spin))
 
