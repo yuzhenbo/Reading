@@ -12,8 +12,9 @@ A cooperative paper list on 3D vision
     * [YZB] VIBE: Video Inference for Human Body Pose and Shape Estimation ([arXiv](https://arxiv.org/pdf/1912.05656v1.pdf))([code](https://github.com/mkocabas/VIBE))
     * [GSY] HEMlets PoSh: Learning Part-Centric Heatmap Triplets for 3D Human Pose and Shape Estimation ([ICCV'19](https://arxiv.org/pdf/2003.04894.pdf))
 * Unsupervised 3D Mesh Reconstruction
-    * [ ] Self-supervised Learning of Motion Capture([NIPS'17](https://arxiv.org/abs/1712.01337))([code](https://github.com/htung0101/3d_smpl))
+    * [YZB] PoseNet3D: Unsupervised 3D Human Shape and Pose Estimation ([arXiv](https://arxiv.org/abs/2003.03473))
+    * [YZB] Self-supervised Learning of Motion Capture([NIPS'17](https://arxiv.org/abs/1712.01337))([code](https://github.com/htung0101/3d_smpl))
     * [GSY] TexturePose: Supervising Human Mesh Estimation with Texture Consistency ([ICCV'19](https://arxiv.org/pdf/1910.11322.pdf)) ([code](https://github.com/geopavlakos/TexturePose))
     * [GSY] Learning to Reconstruct 3D Human Pose and Shape via Model-fitting in the Loop ([ICCV'19](https://arxiv.org/pdf/1909.12828.pdf)) ([code](https://seas.upenn.edu/~nkolot/projects/spin))
 * 3D reconstrunction
-    * [ ] On the Continuity of Rotation Representations in Neural Networks ([CVPR'19](https://arxiv.org/abs/1812.07035))
+    * [YZB] On the Continuity of Rotation Representations in Neural Networks ([CVPR'19](https://arxiv.org/abs/1812.07035))
